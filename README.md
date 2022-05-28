@@ -4,4 +4,4 @@ This script is for maximizing profit by getting into rich people servers and ant
 # Loadstring
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Memerip/plsdonate-script/main/pls"))()
 
-Works with most exploits I reccomend level 7 up
+<b>Works with most exploits I recommend level 7 up</b>
